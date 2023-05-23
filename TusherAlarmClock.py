@@ -31,7 +31,7 @@ addTime = Label(clock,text = "Minute",fg="Brown", bg="Cyan",relief = "groove",fo
 addTime = Label(clock,text = "Second",fg="Brown", bg="Cyan",relief = "groove",font=120).place(x = 270, y =75)
 addTime = Label(clock,text = ":",font=120).place(x = 147, y = 100)
 addTime = Label(clock,text = ":",font=120).place(x = 247, y = 100)
-setYourAlarm = Label(clock,text = "Set Time Here",fg="Black", bg="White",relief = "flat",font=("Ariel",30,"bold")).place(x=38, y=10)
+setYourAlarm = Label(clock,text = "Set Time Here",fg="Black", bg="Magenta",relief = "flat",font=("Ariel",30,"bold")).place(x=38, y=10)
 hour = StringVar()
 min = StringVar()
 sec = StringVar()
