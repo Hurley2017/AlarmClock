@@ -31,7 +31,6 @@ __Backbone__ | Python
 ```python
 #Applications
 - VS-Code (For editing codes)
-- Postman (For testing APIs)
 - Varcel (For hosting)
 ```
 ```python
